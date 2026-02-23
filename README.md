@@ -207,12 +207,3 @@ Simplifies Linux syscalls:
 This project is intended for **educational purposes only**.
 
 ---
-
----
-
-If you want, I can also give you:
-
-✨ A **super-stylish GitHub version with badges**
-📊 A **flowchart diagram**
-📝 A **lab manual format write-up**
-🎥 A **step-by-step viva explanation script**
